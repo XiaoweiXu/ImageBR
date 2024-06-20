@@ -27,4 +27,7 @@ achieve a segmentation accuracy of 83.0% and 74.4%, and there
 is still big room for further improvement. We hope that ImageBR
 can stimulate further research and lead to innovative and generic
 solutions that would have an impact in multiple domains. Our
-dataset and code are released to the public [1]
+dataset and code are released to the public.
+
+
+Please send emails to me xiao.wei.xu@foxmail.com for the link and the password to download the dataset and the benchmark.
