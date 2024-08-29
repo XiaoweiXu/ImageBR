@@ -1,5 +1,5 @@
 # ImageBR
- the first implant and mammary gland segmentation dataset for surgical planning of breast reconstruction based on MRI images
+The first implant and mammary gland segmentation dataset for surgical planning of breast reconstruction based on MRI images
 
  Breast cancer is the most common cancer in the female population globally, and reconstructive breast surgery
 has been widely adopted to improve the quality of life for
